@@ -1,4 +1,4 @@
-# multi-threading-exercises
+# operating-systems
 
 A repository to hold relevant files for CS-438-50: Operating System Analysis. 
 
